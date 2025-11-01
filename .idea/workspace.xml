@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Created plots of the data so far">
+    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Added a few comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fits_and_plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Fits_and_plots.ipynb" afterDir="false" />
     </list>
@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Angelo Bossi &lt;angelo.bossi.jr@bluewin.ch&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -29,12 +34,12 @@
     &quot;assignee&quot;: &quot;Royeth-Boss&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Royeth-Boss/KT-1-Lab-Positronium.git&quot;,
-    &quot;accountId&quot;: &quot;852b012a-b354-415f-a73d-aa97c073f848&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Royeth-Boss/KT-1-Lab-Positronium.git",
+    "accountId": "c34418f9-4a2a-4e0b-8fbf-44ff8a7a3ff3"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -58,7 +63,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -120,7 +125,31 @@
       <option name="project" value="LOCAL" />
       <updated>1761575768261</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Imported all data and created initial plots for all measurements">
+      <option name="closed" value="true" />
+      <created>1761992675001</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761992675001</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Imported all data and created initial plots for all measurements">
+      <option name="closed" value="true" />
+      <created>1761992703715</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761992703715</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added a few comments">
+      <option name="closed" value="true" />
+      <created>1761992874619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761992874619</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +159,8 @@
     <MESSAGE value="Initial creation" />
     <MESSAGE value="Some import functions" />
     <MESSAGE value="Created plots of the data so far" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created plots of the data so far" />
+    <MESSAGE value="Imported all data and created initial plots for all measurements" />
+    <MESSAGE value="Added a few comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a few comments" />
   </component>
 </project>
