@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Just some small corrections">
+    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Added a fit for the Gaussian with tail in the Aluminium experiment, also added a project requirements document">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fits_and_plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Fits_and_plots.ipynb" afterDir="false" />
     </list>
@@ -181,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762035825156</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added a fit for the Gaussian with tail in the Aluminium experiment, also added a project requirements document">
+      <option name="closed" value="true" />
+      <created>1762092198918</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762092198918</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +205,7 @@
     <MESSAGE value="Added Pulls and plots of them to all fits that were created" />
     <MESSAGE value="Added the calculation of the time interval and adjusted some plots" />
     <MESSAGE value="Just some small corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just some small corrections" />
+    <MESSAGE value="Added a fit for the Gaussian with tail in the Aluminium experiment, also added a project requirements document" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a fit for the Gaussian with tail in the Aluminium experiment, also added a project requirements document" />
   </component>
 </project>
