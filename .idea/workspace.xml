@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Cleaned up the code a little" />
+    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Final small changes for today">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fits_and_plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Fits_and_plots.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762106854450</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Final small changes for today">
+      <option name="closed" value="true" />
+      <created>1762107158683</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1762107158683</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +250,7 @@
     <MESSAGE value="Created the last fit for POM" />
     <MESSAGE value="Changed a color in the plot to make it readable on white background" />
     <MESSAGE value="Cleaned up the code a little" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up the code a little" />
+    <MESSAGE value="Final small changes for today" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final small changes for today" />
   </component>
 </project>
