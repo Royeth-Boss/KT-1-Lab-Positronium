@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Final small changes for today">
+    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Added functions to create png-files to all relevant plots for the report">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Energy_left_gate_1275.png" beforeDir="false" afterPath="$PROJECT_DIR$/Energy_left_gate_1275.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Energy_left_no gate.png" beforeDir="false" afterPath="$PROJECT_DIR$/Energy_left_no gate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Energy_left_no gate_rescaled.png" beforeDir="false" afterPath="$PROJECT_DIR$/Energy_left_no gate_rescaled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Energy_right_gate_511.png" beforeDir="false" afterPath="$PROJECT_DIR$/Energy_right_gate_511.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Energy_right_no gate.png" beforeDir="false" afterPath="$PROJECT_DIR$/Energy_right_no gate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Energy_right_no gate_rescaled.png" beforeDir="false" afterPath="$PROJECT_DIR$/Energy_right_no gate_rescaled.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fits_and_plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Fits_and_plots.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time interval_bins_with fit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time interval_bins_with fit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time_1275_511_gate_Al_raw data.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_1275_511_gate_Al_raw data.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time_1275_511_gate_Al_with fit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_1275_511_gate_Al_with fit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time_1275_511_gate_POM_raw data.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_1275_511_gate_POM_raw data.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time_1275_511_gate_POM_with fit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_1275_511_gate_POM_with fit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time_both_511_gate_raw data.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_both_511_gate_raw data.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time_both_511_gate_with fit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_both_511_gate_with fit.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762107158683</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added functions to create png-files to all relevant plots for the report">
+      <option name="closed" value="true" />
+      <created>1762365578428</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1762365578428</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +272,7 @@
     <MESSAGE value="Changed a color in the plot to make it readable on white background" />
     <MESSAGE value="Cleaned up the code a little" />
     <MESSAGE value="Final small changes for today" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final small changes for today" />
+    <MESSAGE value="Added functions to create png-files to all relevant plots for the report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added functions to create png-files to all relevant plots for the report" />
   </component>
 </project>
