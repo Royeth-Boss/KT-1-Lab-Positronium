@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Added functions to create png-files to all relevant plots for the report">
+    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Adjusted a few details on the plots and improved the fit for the POM case">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Energy_left_gate_1275.png" beforeDir="false" afterPath="$PROJECT_DIR$/Energy_left_gate_1275.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Energy_left_no gate.png" beforeDir="false" afterPath="$PROJECT_DIR$/Energy_left_no gate.png" afterDir="false" />
@@ -13,13 +13,6 @@
       <change beforePath="$PROJECT_DIR$/Energy_right_no gate.png" beforeDir="false" afterPath="$PROJECT_DIR$/Energy_right_no gate.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Energy_right_no gate_rescaled.png" beforeDir="false" afterPath="$PROJECT_DIR$/Energy_right_no gate_rescaled.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fits_and_plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Fits_and_plots.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Time interval_bins_with fit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time interval_bins_with fit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Time_1275_511_gate_Al_raw data.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_1275_511_gate_Al_raw data.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Time_1275_511_gate_Al_with fit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_1275_511_gate_Al_with fit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Time_1275_511_gate_POM_raw data.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_1275_511_gate_POM_raw data.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Time_1275_511_gate_POM_with fit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_1275_511_gate_POM_with fit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Time_both_511_gate_raw data.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_both_511_gate_raw data.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Time_both_511_gate_with fit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Time_both_511_gate_with fit.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762365578428</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Adjusted a few details on the plots and improved the fit for the POM case">
+      <option name="closed" value="true" />
+      <created>1762639717211</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1762639717211</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +274,7 @@
     <MESSAGE value="Cleaned up the code a little" />
     <MESSAGE value="Final small changes for today" />
     <MESSAGE value="Added functions to create png-files to all relevant plots for the report" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added functions to create png-files to all relevant plots for the report" />
+    <MESSAGE value="Adjusted a few details on the plots and improved the fit for the POM case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjusted a few details on the plots and improved the fit for the POM case" />
   </component>
 </project>
